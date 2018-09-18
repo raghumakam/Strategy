@@ -1,0 +1,11 @@
+c:\users\raghavendra.venkatac\source\repos\Strategy\Strategy\bin\Debug\netcoreapp2.1\Strategy.deps.json
+c:\users\raghavendra.venkatac\source\repos\Strategy\Strategy\bin\Debug\netcoreapp2.1\Strategy.runtimeconfig.json
+c:\users\raghavendra.venkatac\source\repos\Strategy\Strategy\bin\Debug\netcoreapp2.1\Strategy.runtimeconfig.dev.json
+c:\users\raghavendra.venkatac\source\repos\Strategy\Strategy\bin\Debug\netcoreapp2.1\Strategy.dll
+c:\users\raghavendra.venkatac\source\repos\Strategy\Strategy\bin\Debug\netcoreapp2.1\Strategy.pdb
+c:\users\raghavendra.venkatac\source\repos\Strategy\Strategy\obj\Debug\netcoreapp2.1\Strategy.csprojAssemblyReference.cache
+c:\users\raghavendra.venkatac\source\repos\Strategy\Strategy\obj\Debug\netcoreapp2.1\Strategy.csproj.CoreCompileInputs.cache
+c:\users\raghavendra.venkatac\source\repos\Strategy\Strategy\obj\Debug\netcoreapp2.1\Strategy.AssemblyInfoInputs.cache
+c:\users\raghavendra.venkatac\source\repos\Strategy\Strategy\obj\Debug\netcoreapp2.1\Strategy.AssemblyInfo.cs
+c:\users\raghavendra.venkatac\source\repos\Strategy\Strategy\obj\Debug\netcoreapp2.1\Strategy.dll
+c:\users\raghavendra.venkatac\source\repos\Strategy\Strategy\obj\Debug\netcoreapp2.1\Strategy.pdb
